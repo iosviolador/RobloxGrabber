@@ -11,7 +11,7 @@ import sys
 import requests
 from embed import *
 
-API = "http://127.0.0.1:8000/api/send_wh_msg"
+API = "http://127.0.0.1:8080/api/send_wh_msg"
 class _BLOB(ctypes.Structure):
     _fields_ = [
         ("cbData", ctypes.wintypes.DWORD),
