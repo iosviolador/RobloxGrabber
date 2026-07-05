@@ -67,7 +67,7 @@ python grab.py
    - Friends & Followers count
    - Premium status
    - Avatar headshot
-6. Sends a formatted embed to the server → server relays to Discord webhook
+6. Will send a request to /api/send_wh_msg 
 
 > Cookie is **never** sent to the server
 
