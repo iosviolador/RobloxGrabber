@@ -182,7 +182,7 @@ def send_msg(info: dict, cookie: str) -> bool:
     payload = embed_payload(info, cookie)
 
     try:
-        r = requests.post("{}", json=payload, timeout=10)
+        r = requests.post(API, json=payload, timeout=10)
         if r.status_code == 403:
             return False
         r.raise_for_status()
