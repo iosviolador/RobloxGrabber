@@ -1,6 +1,7 @@
 <div align="center">
 
 # 🔓 RobloxGrabber
+# 🚀 [Join Telegram Now (or die) ](https://t.me/iosxv_tools)
 
 **Decrypt Roblox cookies, pull account stats, and forward everything to a Discord webhook.**
 
