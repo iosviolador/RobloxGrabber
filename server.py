@@ -1,5 +1,4 @@
 # iosxvv
-# nigger.works
 # https://github.com/iosviolador
 import json
 import time
